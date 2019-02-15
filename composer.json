@@ -1,0 +1,11 @@
+{
+    "name": "alisson/tt",
+    "type": "library",
+    "authors": [
+        {
+            "name": "ATArcanjo",
+            "email": "aa@cct-marketing.com"
+        }
+    ],
+    "require": {}
+}
